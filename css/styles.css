@@ -138,14 +138,14 @@ margin:0 auto 0 auto;
     text-decoration: none;
   }
 
-@media (max-width: 1028px){
+@media (max-width: 960px){
 
     #mountain{
         position: static;
         width: 50%;
     }
     .top_cloud{
-        position:absolute; 
+        position:static; 
     }
     .bottom_cloud{
         position: static;
