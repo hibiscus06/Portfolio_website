@@ -142,11 +142,12 @@ margin:0 auto 0 auto;
 
     .mountain{
         width:70%;
+        position:static;
     }
     .top_cloud{
         position:static; 
     }
     .bottom_cloud{
-        visibility:hidden;
+        position:static;
     }
 }
