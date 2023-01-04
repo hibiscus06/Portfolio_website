@@ -137,3 +137,17 @@ margin:0 auto 0 auto;
     background-image: linear-gradient(to bottom, #DEB6AB, #DEB6AB);
     text-decoration: none;
   }
+
+@media (max-width: 1028px){
+
+    #mountain{
+        position: static;
+        width: 70%;
+    }
+    .top_cloud{
+        position:absolute; 
+    }
+    .bottom_cloud{
+        position: static;
+    }
+}
