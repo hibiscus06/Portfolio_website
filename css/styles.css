@@ -11,7 +11,7 @@ h1{
     font-family: 'Sacramento',serif;
     font-size:5.625rem;
     color:#85586F;
-    /* line-height: 2; */
+    font-weight:lighter;
 }
 h2{
     font-family:'Montserrat',serif ;
