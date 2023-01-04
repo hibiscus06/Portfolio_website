@@ -141,7 +141,7 @@ margin:0 auto 0 auto;
 @media (max-width: 1028px){
 
     #mountain{
-        visibility: hidden;
+        width:50%;
     }
     .top_cloud{
         position:static; 
